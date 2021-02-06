@@ -1,0 +1,5 @@
+> Q: How much RAM should I allocate to Minecraft?
+
+A: Before answering, we'd like to first inform you of the very common misconception that more RAM = better. This is **NOT** true, and in fact, this can result in overall worse performance if you allocate too much RAM to the game. This is due to how Java handles something called "garbage collection", which is basically how the game deals with data it is no longer actively using. When giving Java too much RAM, this means the garbage collector will have much more data it needs to remove all at once, which results in massive lag spikes and stuttering framerates.
+
+With that said... it depends. The amount of RAM you need to allocate will depend on how many mods you're using, your preferred render distance, and various other factors. You should only allocate enough RAM to the point where Minecraft's memory usage tops out at ~70%, and never falls below ~50%. You can view Minecraft's memory usage by pressing F3 while in-game, and looking at the top-right of the screen. You should see a line starting with "Mem:" followed by the percentage.
