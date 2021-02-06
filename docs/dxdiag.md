@@ -5,12 +5,12 @@ name: "dxdiag"
 desc: "How to get a DxDiag report"
 ---
 # Obtaining a DxDiag
-DxDiag, short for DirectX Diagnostics, is a tool used for obtaining system information that is very useful for diagnosing and solving many different issues.
+DirectX Diagnostics, AKA DxDiag, is a Windows OS tool used for obtaining system information that is very useful for diagnosing and solving many different issues.
 
 To get a DxDiag report, follow these instructions:
 
 #### Step 1
-Hold your "Windows" key and press "R" together, to bring up a run dialogue. Type "dxdiag" in the Run window and press enter.
+Hold the `Win` + `R` keys, to bring up the Run application You may also search for `Run` in your search bar. Once opened, type "dxdiag" in the Run window and press enter.
 
 You may get a few prompts on verifying WHQL, say yes; then you should get a window that looks like this:
 
