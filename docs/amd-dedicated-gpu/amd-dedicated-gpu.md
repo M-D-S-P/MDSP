@@ -12,21 +12,21 @@ Some computers have a processor that also contains its own GPU, commonly known a
 
 > **1)** Close out of Minecraft, then right-click on the Desktop and select AMD Radeon Software.
 
-![](/static/images/help/amd-dedicated-gpu/RS_PopUP.png)
+![](/static/images/amd-dedicated-gpu/RS_PopUP.png)
 
 > **2)** Once the software opens, click on the Gear icon and select Graphics from the sub-menu, then choose Advanced.
 
-![](/static/images/help/amd-dedicated-gpu/amd_advancedsettings.png)
+![](/static/images/amd-dedicated-gpu/amd_advancedsettings.png)
 
 > **3)** Click on GPU Workload and select `Graphics`. (If you were doing the opposite and wanted to use your iGPU you could choose `Compute` instead.)
 
 **IMPORTANT:** In systems with more than one AMD Radeon™ GPU installed, GPU Workload setting will apply to all AMD Radeon™ GPUs.
 
-![](/static/images/help/amd-dedicated-gpu/gpu_workload.png)
+![](/static/images/amd-dedicated-gpu/gpu_workload.png)
 
 > **4)** Click OK to restart the Radeon Software and the change will take effect.
 
-![](/static/images/help/amd-dedicated-gpu/rsx_restart.png)
+![](/static/images/amd-dedicated-gpu/rsx_restart.png)
 
 After that, you should be good to go! Open the Minecraft Launcher, start Minecraft, and you should get much better performance!
 
