@@ -14,7 +14,7 @@ Hold the `Win` + `R` keys, to bring up the Run application You may also search f
 
 You may get a few prompts on verifying WHQL, say yes; then you should get a window that looks like this:
 
-![](/static/images/help/dxdiag/DxDiag-1.png)
+![](/static/images/dxdiag/DxDiag-1.png)
 
 #### Step 2
 Press the button "Save all information" as shown above. Please take note of where you are saving the file to. (By default it should be Desktop)
@@ -22,14 +22,14 @@ Press the button "Save all information" as shown above. Please take note of wher
 #### Step 3
 Find the file you just saved and open it, as shown here:
 
-![](/static/images/help/dxdiag/DxDiag-2.png)
+![](/static/images/dxdiag/DxDiag-2.png)
 
 #### Step 4
 Please copy ALL of the text (right click on any empty space, press "select all", right click again, press "copy") in this file and paste it onto a text sharing website, such as [Ubuntu Paste](https://paste.ubuntu.com).
 
 First, paste the text that you copied from the file into the text area in the center of the page at Ubuntu Paste. The "Poster" field will be your Minecraft/Discord Username.
 
-![](/static/images/help/dxdiag/DxDiag-3.png)
+![](/static/images/dxdiag/DxDiag-3.png)
 
 #### Step 5
 
