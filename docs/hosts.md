@@ -1,3 +1,10 @@
+---
+layout: article
+title:  "How to fix a modified hosts file"
+name: "hosts"
+desc: "Steps to reset a hosts file modified by an alt generator"
+---
+
 # Fix Hosts File
 
 Normally when the sign in button does nothing, "Authentication servers are down for maintenence", or "Switch to mojang mode" shows up, it's due to a modification to the hosts file that redirects the sign in request to a different website, which is caused by an illegal alt generator like MCLeaks. To fix this, remove MCLeaks or any other account generators (If you still have it, if not, just skip this step), and then do the following steps.
